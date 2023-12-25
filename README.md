@@ -10,5 +10,6 @@
   <img src="./img1.png" alt="">
 </div>
 <br>
-<h2>API for Image-Cache (If you use it, I have placed a Test struct at the top of the ContentView file)</h2>
+<h2>API for Image-Cache</h2>
+<p>If you use it, I have placed a Test struct at the top of the ContentView file</p>
 <p>API: <a href="https://dunkeyyfong.github.io/test.json">Test<a>
