@@ -6,7 +6,7 @@
   <li>Can automatic remove file cache if file cache for 1 day. (Can settings time remove file caches)</li>
 </ul>
 <p>Picture code and app:</p>
-<div>
-  <img src="" alt="">
-  <img src="" alt="">
+<div style="display: flex; gap: 10px;">
+  <img src="./img1.png" alt="">
+  <img src="./img2.png" alt="">
 </div>
