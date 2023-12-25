@@ -5,3 +5,8 @@
   <li>Can fetch from file cache, don't use API to fetch</li>
   <li>Can automatic remove file cache if file cache for 1 day. (Can settings time remove file caches)</li>
 </ul>
+<p>Picture code and app:</p>
+<div>
+  <img src="" alt="">
+  <img src="" alt="">
+</div>
