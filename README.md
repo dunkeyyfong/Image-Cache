@@ -8,5 +8,7 @@
 <p>Picture code and app:</p>
 <div style="display: flex; gap: 10px;">
   <img src="./img1.png" alt="">
-  <img src="./img2.png" alt="">
 </div>
+<br>
+<h2>API for Image-Cache (If you use it, I have placed a Test struct at the top of the ContentView file)</h2>
+<p>API: <a href="https://dunkeyyfong.github.io/test.json">Test<a>
